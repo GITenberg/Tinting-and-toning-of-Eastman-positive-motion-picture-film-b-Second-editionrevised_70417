@@ -1,0 +1,35 @@
+_repo: Tinting-and-toning-of-Eastman-positive-motion-picture-film-b-Second-editionrevised_70417
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eastman Kodak Company
+    aliases:
+    - Eastman Kodak Company of New Jersey
+    - Company, Eastman Kodak
+    - Kodak
+    gutenberg_agent_id: '55725'
+    url: http://www.gutenberg.org/2009/agents/55725
+    wikipedia: https://en.wikipedia.org/wiki/Kodak
+description: ''
+gutenberg_issued: '2023-03-30'
+identifiers:
+  gutenberg: '70417'
+language: en
+pgterms:marc904: https://archive.org/details/tintingtoningofe00east/page/n3/mode/2up
+pgterms:marc905: 20211120210838anonymous
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: Bob Taylor, Charlene Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bEastman Kodak Company, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Color cinematography'
+- !lcsh 'Motion picture film'
+- !lcc 'TR'
+- GITenberg
+title: 'Tinting and toning of Eastman positive motion picture film : $b Second edition—revised'
+url: http://www.gutenberg.org/ebooks/70417
