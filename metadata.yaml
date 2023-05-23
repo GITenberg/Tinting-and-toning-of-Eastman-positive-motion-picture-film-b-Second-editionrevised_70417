@@ -1,5 +1,8 @@
 _repo: Tinting-and-toning-of-Eastman-positive-motion-picture-film-b-Second-editionrevised_70417
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70417-h/images/cover.jpg
 creator:
   author:
     agent_name: Eastman Kodak Company
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55725
     wikipedia: https://en.wikipedia.org/wiki/Kodak
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70417#Tinting-and-toning-of-Eastman-positive-motion-picture-film-b-Second-editionrevised
 gutenberg_issued: '2023-03-30'
 identifiers:
   gutenberg: '70417'
